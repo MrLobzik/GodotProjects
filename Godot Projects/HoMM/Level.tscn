@@ -1,0 +1,6 @@
+[gd_scene format=2]
+
+[node name="Level" type="YSort"]
+
+[node name="Ground" type="TileMap" parent="."]
+format = 1
